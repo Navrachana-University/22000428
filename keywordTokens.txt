@@ -1,0 +1,14 @@
+ Star Wars Token  C Equivalent   
+  
+ `jedi`           `int main() {` 
+ `sith`           `return 0; }`  
+ `lightsaber`     `int`          
+ `force`          `+`            
+ `hyperdrive`     `-`            
+ `blaster`        `*`            
+ `starship`       `/`            
+ `transmission`   `printf`       
+ `sector`         `if`           
+ `then`           `{`            
+ `else`           `else`         
+ `endsector`      `}`            

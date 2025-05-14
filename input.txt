@@ -1,0 +1,18 @@
+jedi
+lightsaber x
+lightsaber y
+lightsaber output
+x = 100
+y = 50
+output = x blaster y
+transmission output
+sector x > y then
+    output = x hyperdrive y
+    transmission output
+else
+    output = y hyperdrive x
+    transmission output
+endsector
+x = output force 20
+transmission x
+sith

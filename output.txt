@@ -1,0 +1,19 @@
+x = 100
+y = 50
+t1 = x * y
+output = t1
+PRINT output
+t2 = x > y
+if t2 goto L1
+goto L2
+L1:
+t3 = x - y
+output = t3
+PRINT output
+L2:
+t4 = y - x
+output = t4
+PRINT output
+t5 = output + 20
+x = t5
+PRINT x
