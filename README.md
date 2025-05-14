@@ -1,11 +1,5 @@
 # 🌌 Star Wars-Themed Intermediate Code Generator (Flex + Bison)
 
-## Author Information:
-
-Name: Kirtan Shah
-
-Roll Number: 22000428
-
 This project is a fun exploration into compiler design, implementing an **intermediate code generator** using **Flex (Lex)** and **Bison (Yacc)** with a unique **Star Wars-themed syntax**. It takes code written in a custom Star Wars-inspired language and translates it into **Three-Address Code (TAC)**.
 
 ## 🚀 Features
@@ -54,3 +48,8 @@ To compile and run the code, follow these steps:
      compiler.exe input.txt > output.txt )
 
 6.  The generated Three-Address Code will be saved in the output.txt file.
+
+## Author Information:
+
+Name: Kirtan Shah
+Roll Number: 22000428
